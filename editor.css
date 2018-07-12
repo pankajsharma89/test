@@ -1,6 +1,7 @@
 .editorContainer {
     width: 100%;
-    height: calc(100% - 25px);
+    height: 500px;
+    /* height: calc(100% - 25px); */
 }
 
 .designer, .previewView, .htmlContentEditor, .htmlEditor {
